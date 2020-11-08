@@ -24,6 +24,7 @@
 		0167C31D2558428A00F5136F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0167C3202558428A00F5136F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0167C3222558428A00F5136F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0167C3282558446500F5136F /* Config.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				0167C31D2558428A00F5136F /* Assets.xcassets */,
 				0167C31F2558428A00F5136F /* LaunchScreen.storyboard */,
 				0167C3222558428A00F5136F /* Info.plist */,
+				0167C3282558446500F5136F /* Config.xcconfig */,
 			);
 			path = SecureAPIKeys;
 			sourceTree = "<group>";

@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    public let HARDCODED_API_KEY = "12345"
+
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
